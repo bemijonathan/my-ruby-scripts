@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    backports (3.16.1)
+    daru (0.2.2)
+      backports
+      packable (~> 1.3.9)
+    mmh3 (0.1.0)
+    numo-narray (0.9.1.6)
+    nyaplot (0.1.6)
+    packable (1.3.10)
+      backports
+    rumale (0.17.3)
+      mmh3 (~> 0.1)
+      numo-narray (>= 0.9.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  daru
+  nyaplot
+  rumale
+
+BUNDLED WITH
+   2.1.4
