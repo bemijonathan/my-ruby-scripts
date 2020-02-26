@@ -10,6 +10,7 @@ GEM
     nyaplot (0.1.6)
     packable (1.3.10)
       backports
+    pycall (1.3.0)
     rumale (0.17.3)
       mmh3 (~> 0.1)
       numo-narray (>= 0.9.1)
@@ -20,6 +21,7 @@ PLATFORMS
 DEPENDENCIES
   daru
   nyaplot
+  pycall
   rumale
 
 BUNDLED WITH
